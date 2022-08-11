@@ -1,0 +1,25 @@
+*Google sheets*
+https://docs.google.com/spreadsheets/d/1YeL9jfTRWWHwES3GtPCCJa4ZhHy14pIcxXYRxn5VAO4/edit#gid=0
+
+*Метка api binance*
+calc_spred
+
+*api_key*
+iBGTl6p4bfHUcUEBq4WUfIytxlVF9vy2Nvc5pxeCC9qAwXEE3KPzZ723o8farz5i
+
+*Secret key*
+o9JE5YR5Jr63TSu9OQRVX2rbacaF44TAnwsFFQeh2ljgccVGpvXlcntmzGUe2OxO
+
+*P2P prices* -> POST request with payload
+https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search
+{"page":1,"rows":10,"payTypes":["Tinkoff"],"countries":[],"publisherType":null,"asset":"USDT","fiat":"RUB","tradeType":"BUY"}
+{"page":1,"rows":10,"payTypes":["RosBank"],"countries":[],"publisherType":null,"transAmount":"1000","asset":"USDT","fiat":"RUB","tradeType":"BUY"}
+{"page":1,"rows":10,"payTypes":["Tinkoff"],"countries":[],"publisherType":null,"fiat":"RUB","tradeType":"BUY","asset":"USDT","merchantCheck":false}
+{"page":1,"rows":10,"payTypes":["Tinkoff"],"countries":[],"publisherType":null,"fiat":"RUB","tradeType":"BUY","asset":"USDT","merchantCheck":false,"transAmount":"1000"}
+
+*e-mail*
+calc-spreds@calc-spreds.iam.gserviceaccount.com
+
+
+*youtube video about googleshhets api*
+https://www.youtube.com/watch?v=bu5wXjz2KvU

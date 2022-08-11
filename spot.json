@@ -1,0 +1,56 @@
+{
+    "binance": {
+        "BNBBTC": 0.013381,
+        "BUSDUSDT": 0.9996,
+        "BTCUSDT": 24836.99,
+        "BTCBUSD": 24848.57,
+        "BNBBUSD": 332.5,
+        "ETHUSDT": 1921.1,
+        "SHIBBUSD": 1.265e-05,
+        "ETHBTC": 0.077351,
+        "ETHBUSD": 1922.05,
+        "SHIBUSDT": 1.265e-05,
+        "BTCRUB": 1515694.0,
+        "USDTRUB": 61.06,
+        "BNBETH": 0.173,
+        "BUSDRUB": 60.99
+    },
+    "huobi": {
+        "for_sell": {
+            "BTCUSDT": 24839.7,
+            "ETHUSDT": 1921.27,
+            "BNBUSDT": 332.19,
+            "USDTRUB": 60.8,
+            "SHIBUSDT": 1.264e-05,
+            "BTCRUB": 1437352.96,
+            "ETHBTC": 0.077356
+        },
+        "for_buy": {
+            "BTCUSDT": 24839.71,
+            "ETHUSDT": 1921.28,
+            "BNBUSDT": 332.28,
+            "USDTRUB": 61.5,
+            "SHIBUSDT": 1.266e-05,
+            "BTCRUB": 1561545.01,
+            "ETHBTC": 0.077361
+        }
+    },
+    "bybit": {
+        "for_sell": {
+            "BTCUSDT": 24834.43,
+            "ETHUSDT": 1921.21,
+            "BUSDUSDT": 0.99916,
+            "BNBUSDT": 332.0386,
+            "SHIBUSDT": 1.26468e-05,
+            "ETHBTC": 0.077355
+        },
+        "for_buy": {
+            "BTCUSDT": 24836.85,
+            "ETHUSDT": 1921.47,
+            "BUSDUSDT": 0.9995,
+            "BNBUSDT": 332.4161,
+            "SHIBUSDT": 1.26602e-05,
+            "ETHBTC": 0.07741
+        }
+    }
+}
