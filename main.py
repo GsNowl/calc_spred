@@ -163,9 +163,10 @@ async def main():
     huobi = asyncio.create_task(get_spot_huobi())
     bybit = asyncio.create_task(get_spot_bybit())
     c = asyncio.create_task(calc())
+    wtf = asyncio.create_task(write_to_file())
     # us = asyncio.create_task(update_sheets())
 
-    for task in [binance, huobi, bybit, c]:
+    for task in [binance, huobi, bybit, c, wtf]:
         await task
 
     # await asyncio.create_task(get_spot_binance())
